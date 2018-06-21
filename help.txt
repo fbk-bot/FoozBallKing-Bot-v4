@@ -1,0 +1,31 @@
+﻿```Markdown
+< FoozBallKing Bot v4 Help >
+[Developers]: @CodaEnder#0001, @Naz // ► .... ►#1760
+[Owner]: FoozBallKing (a failure)#4905
+[Library]: discord.js
+[Code Workspace]: Spexr Code Workspace by CodaEnder#0001
+
+< Main >
+[info]: Bot information!
+[help]: This command!
+[say]: Make the bot speak!
+[botinfox]: Older bot info (Existed from v3)
+[guild]: Guild information!
+[user]: User information! (Usage: |user @Naz // ► .... ►#1760)
+[ping]: Checks bot ping!
+
+< Affection >
+[kiss]: Kiss someone OwO
+[hug]: Hug someone <3
+
+< Fun >
+[8ball]: Use the magical 8ball!
+
+< Music >
+# Type "|musichelp" for Music help!
+# https://github.com/BluSpring/discord.js-music-bot-bluspring
+
+< Overwatch >
+[stats]: User statistics for an account
+[hero]: Hero stats for an Overwatch Hero
+```

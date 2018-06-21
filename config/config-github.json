@@ -1,0 +1,8 @@
+{
+  "token": "",
+  "version": "v4",
+  "prefix": "|",
+  "oauthSecret": "Discord bot app secret here",
+  "callbackURL": "https://mycustom.url/callback",
+  "botID": "Bot ID here (Don't ask why)"
+}
